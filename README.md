@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=one-emoji-one-smile)
 [![rank](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/zp1206849221-sketch/one-emoji-one-smile/rank.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=one-emoji-one-smile)
-[![reward](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=one-emoji-one-smile)
+[![reward](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/zp1206849221-sketch/one-emoji-one-smile/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=one-emoji-one-smile)
 
 # One Emoji, One Smile
 
